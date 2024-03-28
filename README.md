@@ -19,15 +19,9 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-
-  
-  <br/><br/><br/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+    <img alt="my-stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NinYuri&show_icons=true"/>
+    <img alt="top-langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinYuri&layout=donut"/>
 </div>
-
-<hr/>
-
-<img alt="my-stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NinYuri&show_icons=true"/>
-<img alt="top-langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinYuri&layout=donut"/>
