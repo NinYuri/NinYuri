@@ -11,9 +11,9 @@
 <h2 align="center">💻 Languages - Frameworks - Tools 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,atom,eclipse,github,git,figma,arduino,docker,azure" />
+    <img src="https://skillicons.dev/icons?i=unity,vscode,atom,eclipse,github,git,figma,azure" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,mysql" />
 </div>
 
 <br/>
